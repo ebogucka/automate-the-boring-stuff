@@ -5,3 +5,8 @@ My solutions to practice projects from [Automate the Boring Stuff with Python](h
 ## Chapter 3: Functions
 
 * [The Collatz Sequence](chapter_3/collatz.py)
+
+## Chapter 4: Lists
+
+* [Comma Code](chapter_4/comma_code.py)
+* [Character Picture Grid](chapter_4/character_picture_grid.py)
