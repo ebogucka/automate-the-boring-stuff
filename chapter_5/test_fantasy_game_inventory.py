@@ -19,6 +19,13 @@ class TestAddToInventory(unittest.TestCase):
         result = add_to_inventory(inventory, [])
         self.assertEqual(result, inventory)
 
+    def test_bad_type(self):
+        """Test with non-iterable types"""
+        with self.assertRaises(TypeError):
+            add_to_inventory(2)
+        with self.assertRaises(TypeError):
+            add_to_inventory()
+
 
 if __name__ == "__main__":
     unittest.main()
