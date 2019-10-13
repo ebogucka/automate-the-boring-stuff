@@ -10,3 +10,7 @@ My solutions to practice projects from [Automate the Boring Stuff with Python](h
 
 * [Comma Code](chapter_4/comma_code.py)
 * [Character Picture Grid](chapter_4/character_picture_grid.py)
+
+## Chapter 5: Dictionaries and Structuring Data
+
+* [Fantasy Game Inventory](chapter_5/fantasy_game_inventory.py)
