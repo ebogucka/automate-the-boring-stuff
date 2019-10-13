@@ -14,3 +14,7 @@ My solutions to practice projects from [Automate the Boring Stuff with Python](h
 ## Chapter 5: Dictionaries and Structuring Data
 
 * [Fantasy Game Inventory](chapter_5/fantasy_game_inventory.py)
+
+## Chapter 6: Manipulating Strings
+
+* [Table Printer](chapter_6/table_printer.py)
