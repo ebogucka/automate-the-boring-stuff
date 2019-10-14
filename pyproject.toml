@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "automate-the-boring-stuff"
+version = "0.1.0"
+description = "My solutions to practice projects from Automate the Boring Stuff with Python by Al Sweigart."
+authors = ["Elżbieta Bogucka <ebogucka@users.noreply.github.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.7"
+pyperclip = "^1.7"
+
+[tool.poetry.dev-dependencies]
+flake8 = "^3.7"
+black = {version = "^18.3-alpha.0", allows-prereleases = true}
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
