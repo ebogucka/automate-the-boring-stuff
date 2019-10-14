@@ -18,3 +18,8 @@ My solutions to practice projects from [Automate the Boring Stuff with Python](h
 ## Chapter 6: Manipulating Strings
 
 * [Table Printer](chapter_6/table_printer.py)
+
+## Chapter 7: Pattern Matching with Regular Expressions
+
+* [Strong Password Detection](chapter_7/strong_password_detection.py)
+* [Regex Version of strip()](chapter_7/strip.py)
