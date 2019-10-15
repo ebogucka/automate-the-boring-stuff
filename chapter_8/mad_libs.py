@@ -7,6 +7,7 @@ import re
 import os
 
 if len(sys.argv) < 2:
+    print("Usage: py.exe mad_libs.py <file>")
     sys.exit()
 
 filename = sys.argv[1]
