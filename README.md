@@ -23,3 +23,7 @@ My solutions to practice projects from [Automate the Boring Stuff with Python](h
 
 * [Strong Password Detection](chapter_7/strong_password_detection.py)
 * [Regex Version of strip()](chapter_7/strip.py)
+
+## Chapter 8: Reading and Writing Files
+
+* [Extending the Multiclipboard](chapter_8/multiclipboard.py)
