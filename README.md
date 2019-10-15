@@ -27,3 +27,4 @@ My solutions to practice projects from [Automate the Boring Stuff with Python](h
 ## Chapter 8: Reading and Writing Files
 
 * [Extending the Multiclipboard](chapter_8/multiclipboard.py)
+* [Mad Libs](chapter_8/mad_libs.py)
