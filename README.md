@@ -35,3 +35,7 @@ My solutions to practice projects from [Automate the Boring Stuff with Python](h
 * [Selective Copy](chapter_9/selective_copy.py)
 * [Deleting Unneeded Files](chapter_9/deleting_unneeded_files.py)
 * [Filling in the Gaps](chapter_9/filling_gaps.py)
+
+## Chapter 10: Debuggin
+
+* [Debuggin Coin Toss](chapter_10/coin_toss.py)
