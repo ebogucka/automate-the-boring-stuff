@@ -33,3 +33,5 @@ My solutions to practice projects from [Automate the Boring Stuff with Python](h
 ## Chapter 9: Organizing Files
 
 * [Selective Copy](chapter_9/selective_copy.py)
+* [Deleting Unneeded Files](chapter_9/deleting_unneeded_files.py)
+* [Filling in the Gaps](chapter_9/filling_gaps.py)
