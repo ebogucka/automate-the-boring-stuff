@@ -29,3 +29,7 @@ My solutions to practice projects from [Automate the Boring Stuff with Python](h
 * [Extending the Multiclipboard](chapter_8/multiclipboard.py)
 * [Mad Libs](chapter_8/mad_libs.py)
 * [Regex Search](chapter_8/regex_search.py)
+
+## Chapter 9: Organizing Files
+
+* [Selective Copy](chapter_9/selective_copy.py)
