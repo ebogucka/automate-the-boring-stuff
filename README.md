@@ -44,3 +44,4 @@ My solutions to practice projects from [Automate the Boring Stuff with Python](h
 
 * [Command-Line Emailer](chapter_11/emailer.py)
 * [Image Site Downloader](chapter_11/image_site_downloader.py)
+* [2048](chapter_11/2048.py)
