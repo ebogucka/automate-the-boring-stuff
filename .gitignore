@@ -129,3 +129,5 @@ dmypy.json
 *.bak
 *.dir
 *.dat
+chapter_11/geckodriver.exe
+chapter_11/login.json
