@@ -43,3 +43,4 @@ My solutions to practice projects from [Automate the Boring Stuff with Python](h
 ## Chapter 11: Web Scraping
 
 * [Command-Line Emailer](chapter_11/emailer.py)
+* [Image Site Downloader](chapter_11/image_site_downloader.py)
