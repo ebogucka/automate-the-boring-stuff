@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Debuggin Coin Toss
+# Debugging Coin Toss
 
 import random
 
