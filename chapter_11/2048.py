@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# 20148
+# 2048
 # Requires selenium and https://github.com/mozilla/geckodriver/.
 
 from selenium import webdriver
