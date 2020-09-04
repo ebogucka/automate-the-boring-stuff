@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+# !/usr/bin/env python3
 # 2048
 # Requires selenium and https://github.com/mozilla/geckodriver/.
 
